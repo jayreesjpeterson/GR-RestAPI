@@ -122,8 +122,8 @@ Authorization: 7iM4TP.hUg7voNDH.WsKPD5q71WMD3iO
  - Jayrees Peterson (DaRealPandaz)
 
 # Packages used
- - Bcrypt [npm](https://www.npmjs.com/package/bcrypt)
- - Database-js [npm][https://www.npmjs.com/package/database-js]
- - Database-js-mysql [npm][https://www.npmjs.com/package/database-js-mysql]
- - Express [npm][https://www.npmjs.com/package/express]
- - Express-rate-limit [npm][https://www.npmjs.com/package/express-rate-limit]
+ - Bcrypt ([npm](https://www.npmjs.com/package/bcrypt))
+ - Database-js ([npm](https://www.npmjs.com/package/database-js))
+ - Database-js-mysql ([npm](https://www.npmjs.com/package/database-js-mysql))
+ - Express ([npm](https://www.npmjs.com/package/express))
+ - Express-rate-limit ([npm](https://www.npmjs.com/package/express-rate-limit))
