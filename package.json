@@ -1,0 +1,21 @@
+{
+  "name": "GlossyRays",
+  "version": "1.0.0",
+  "description": "GlossyRays backend RestAPI designed for Purchase processing, User logins, Administration, and Stats...",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "GlossyRays"
+  ],
+  "author": "Jayrees Peterson",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "database-js": "^3.0.10",
+    "database-js-mysql": "^1.1.3",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.1.3"
+  }
+}
