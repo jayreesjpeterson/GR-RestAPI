@@ -112,7 +112,7 @@ The returned JSON formatted data will look closely like this:
 **NOTE**: Account deletion is permanent and cannot be undone
 
 ```http
-DELETE http://play.tabisrealms.net:3000/api/v1/auth/account/delete
+DELETE http://api.glossyrays.com:3000/api/v1/auth/account/delete
 Accept: application/json
 Content-Type: application/json
 Authorization: 7iM4TP.hUg7voNDH.WsKPD5q71WMD3iO
