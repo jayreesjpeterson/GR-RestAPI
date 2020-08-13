@@ -3,10 +3,10 @@
 *GR-RestAPI* is an RestAPI designed for a cosmetics website [glossyrays.com](https://glossyrays.com) where products will be sold and shipped to an client.
 
 # Features
- [x] User Authenication and Data Storage
- [] Product Cache
- [] Ability to purchase items 
- [] And more...
+ [x] User Authenication and Data Storage<br>
+ [] Product Cache<br>
+ [] Ability to purchase items<br> 
+ [] And more...<br>
  
 # Documentation
 
