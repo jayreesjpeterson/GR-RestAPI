@@ -119,8 +119,8 @@ Authorization: 7iM4TP.hUg7voNDH.WsKPD5q71WMD3iO
 ```
 
 # Contributors
- - Jayrees Peterson (DaRealPandaz)
-
+ - Jayrees Peterson
+ 
 # Packages used
  - Bcrypt ([npm](https://www.npmjs.com/package/bcrypt))
  - Database-js ([npm](https://www.npmjs.com/package/database-js))
